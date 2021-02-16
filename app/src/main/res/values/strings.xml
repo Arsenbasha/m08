@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">HealthyPoint</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+
+    <string name="IniciarSesion">Iniciar Sesión</string>
+    <string name="userName">Nombre de usuario</string>
+    <string name="userPassword">Contraseña</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nombreNewUser">Nombre</string>
+    <string name="apellidoNewUser">Apllido</string>
+    <string name="mailNewUser">Correo</string>
+    <string name="Registro">Registro</string>
+    <string name="Entrar">Entrar</string>
+    <string name="Cancel">Cancelar</string>
+    <string name="next">Siguiente</string>
+    <string name="correo">Correo</string>
+    <string name="Bienvenido">Bienvenido</string>
+    <string name="back">Atras</string>
+    <string name="AbautUs">Quienes Somos</string>
+    <string name="Settings">Ajustes</string>
+    <string name="home">home</string>
+    <string name="admin">Leandro Paredes</string>
+    <string name="mailAdmin">leandroparedes0721@gmial.com</string>
+    <string name="des">Projecto Healthy Point inicio</string>
+    <string name="plan">¿Qué plan quieres realizar?</string>
+    <string name="definicion">Definición</string>
+    <string name="adelgazar">Adelgazar</string>
+    <string name="masa">Ganar masa muscular</string>
+    <string name="edad">¿Qué edad tienes?</string>
+    <string name="peso">¿Cuánto pesas?</string>
+    <string name="textEdad">Edad</string>
+    <string name="textPeso">Peso</string>
+    <string name="sesioout">cerrar sesión</string>
+    <string name="confrimar">Confirmar</string>
+    <string name="crearUsuario">Crear Usuario</string>
+
+    <!-- Apartado Strings Entrenamiento-->
+    <string name="ejericicios1">Ejercicios de hoy</string>
+    <string name="ejericicios2">Ejercicios de hoy</string>
+    <string name="ejericicios3">Ejercicios de hoy</string>
+    <string name="ejericicios4">Ejercicios de hoy</string>
+    <string name="ejericicios5">Ejercicios de hoy</string>
+    <string name="ejericicios6">Ejercicios de hoy</string>
+    <string name="ejericicios7">Ejercicios de hoy</string>
+    <string name="ejericicios8">Ejercicios de hoy</string>
+    <string name="ejericicios9">Ejercicios de hoy</string>
+    <string name="ejericicios10">Ejercicios de hoy</string>
+    <string name="ejericicios11">Ejercicios de hoy</string>
+    <string name="ejericicios12">Ejercicios de hoy</string>
+    <string name="ejericicios13">Ejercicios de hoy</string>
+    <string name="ejericicios14">Ejercicios de hoy</string>
+    <string name="ejericicios15">Ejercicios de hoy</string>
+    <string name="ejericicios16">Ejercicios de hoy</string>
+    <string name="ejericicios17">Ejercicios de hoy</string>
+
+    <string name="Salir">Salir</string>
+    <string name="TuPlan">Tu plan</string>
+    <string name="TuProgreso">Tu progreso</string>
+
+    <!-- Menu-->
+    <string name="SobreNosotros">Sobre Nosotros</string>
+
+
+    <string name="entHoy">Tu entrenamiento de hoy</string>
+    <string name="dia1">Día 1</string>
+    <string name="ejericicios">Ejercicios de hoy</string>
+    <string name="atras">Atrás</string>
+    <string name="pressBanca">Press de banca 2 x 10</string>
+    <string name="pressPierna">Press de pierna 3 x 15</string>
+    <string name="pressHombro">Press de hombro 3 x 15</string>
+    <string name="sentadilla">Sentadillas 3 x 12-10-8</string>
+    <string name="remoHorizontal">Remo horizontal 3 x 12</string>
+    <!-- FIN Apartado Strings Entrenamiento-->
+    <!-- Partado Strings Ejercicios -->
+    <string name="Ejercicio">Ejercicio</string> <!-- Cambiar (Pruebas)-->
+    <string name="Lorem">DkldsjfkldasfjkjakldñfjdajfafjklñdasjfsaklñfjdasklfjklDkldsjfkldasfjkjakldñfjdajfafjklñdasjfsaklñfjdasklfjkldkjdkfjñafdafjadskfjjafñdslfjlkñdasjfkljlajkljakldajfkljsdklfmamDkldsjfkldasfjkjakldñfjdajfafjklñdasjfsaklñfjdasklfjkldkjdkfjñafdafjadskfjjafñdslfjlkñdasjfkljlajkljakldajfkljsdklfmamDkldsjfkldasfjkjakldñfjdajfafjklñdasjfsaklñfjdasklfjkldkjdkfjñafdafjadskfjjafñdslfjlkñdasjfkljlajkljakldajfkljsdklfmamDkldsjfkldasfjkjakldñfjdajfafjklñdasjfsaklñfjdasklfjkldkjdkfjñafdafjadskfjjafñdslfjlkñdasjfkljlajkljakldajfkljsdklfmamDkldsjfkldasfjkjakldñfjdajfafjklñdasjfsaklñfjdasklfjkldkjdkfjñafdafjadskfjjafñdslfjlkñdasjfkljlajkljakldajfkljsdklfmamDkldsjfkldasfjkjakldñfjdajfafjklñdasjfsaklñfjdasklfjkldkjdkfjñafdafjadskfjjafñdslfjlkñdasjfkljlajkljakldajfkljsdklfmamdkjdkfjñafdafjadskfjjafñdslfjlkñdasjfkljlajkljakldajfkljsdklfmam,cdsilkfsdaklfjdsafkdsfma-sd</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <!-- FIN Apartado String Ejercicios -->
+
+</resources>
